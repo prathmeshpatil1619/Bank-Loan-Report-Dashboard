@@ -23,6 +23,8 @@ This project is part of my analytics learning portfolio, showcasing **ETL, Data 
 - Key metrics on applications, funding, and repayments  
 
 ![Summary Dashboard] (Screenshot 2025-09-28 101651.png)
+### Dashboard Preview:
+<img width="1325" height="744" alt="Screenshot 2025-09-28 101651" src="https://github.com/user-attachments/assets/21e8e04b-03d5-4834-947e-54000979710e" />
 
 ---
 
