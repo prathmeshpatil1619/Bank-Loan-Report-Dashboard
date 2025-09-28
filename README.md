@@ -22,7 +22,8 @@ This project is part of my analytics learning portfolio, showcasing **ETL, Data 
 - Loan Status distribution  
 - Key metrics on applications, funding, and repayments  
 
-![Summary Dashboard](Screenshot1.png)
+![Summary Dashboard](<img width="1325" height="744" alt="Screenshot 2025-09-28 101651" src="https://github.com/user-attachments/assets/9f6bf1fd-d218-4034-a630-60a869a90c31" />
+)
 
 ---
 
@@ -32,7 +33,8 @@ This project is part of my analytics learning portfolio, showcasing **ETL, Data 
 - Loan Purpose analysis  
 - Loan Term and Employment Length breakdown  
 
-![Overview Dashboard](Screenshot2.png)
+![Overview Dashboard](<img width="1325" height="746" alt="Screenshot 2025-09-28 101741" src="https://github.com/user-attachments/assets/df9791fa-0134-46af-901c-a250110eb5be" />)
+
 
 ---
 
@@ -41,7 +43,8 @@ This project is part of my analytics learning portfolio, showcasing **ETL, Data 
 - Funded vs Received amount  
 - Borrower profiles with repayment details  
 
-![Details Dashboard](Screenshot3.png)
+![Details Dashboard](<img width="1326" height="741" alt="Screenshot 2025-09-28 101814" src="https://github.com/user-attachments/assets/97b97152-1826-45f4-8353-777b9675ef6c" />
+)
 
 ---
 
