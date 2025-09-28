@@ -43,7 +43,7 @@ This project is part of my analytics learning portfolio, showcasing **ETL, Data 
 - Funded vs Received amount  
 - Borrower profiles with repayment details  
 
-![Details Dashboard](<img width="1326" height="741" alt="Screenshot 2025-09-28 101814" src="https://github.com/user-attachments/assets/97b97152-1826-45f4-8353-777b9675ef6c" />
+![Details Dashboard](img width="1326" height="741" alt="Screenshot 2025-09-28 101814" src="https://github.com/user-attachments/assets/97b97152-1826-45f4-8353-777b9675ef6c"
 )
 
 ---
