@@ -1,2 +1,77 @@
-# Bank-Loan-Report-Dashboard
-Power BI dashboard analyzing bank loan applications, funded amounts, repayments, interest rates, and loan performance metrics. Includes Summary, Overview, and Detailed insights with Good vs Bad loans, loan purpose, state-wise distribution, and borrower profiles.
+# 📊 Bank Loan Report Dashboard
+
+A Power BI dashboard project that provides insights into **bank loan applications, funded amounts, repayments, loan performance, and borrower details**.  
+
+This project is part of my analytics learning portfolio, showcasing **ETL, Data Modeling, DAX, and Power BI visualization** skills.  
+
+---
+
+## 🚀 Key Insights
+- **Total Loan Applications**: 38.6K  
+- **Total Funded Amount**: $435.8M  
+- **Total Amount Received**: $473.1M  
+- **Average Interest Rate**: 12%  
+- **Average DTI (Debt-to-Income)**: 13.3%  
+
+---
+
+## 📌 Dashboard Pages
+
+### 1. **Summary View**
+- Good vs Bad Loans breakdown  
+- Loan Status distribution  
+- Key metrics on applications, funding, and repayments  
+
+![Summary Dashboard](Screenshot1.png)
+
+---
+
+### 2. **Overview**
+- Applications by Month  
+- Applications by State  
+- Loan Purpose analysis  
+- Loan Term and Employment Length breakdown  
+
+![Overview Dashboard](Screenshot2.png)
+
+---
+
+### 3. **Detailed View**
+- Loan-level drill down  
+- Funded vs Received amount  
+- Borrower profiles with repayment details  
+
+![Details Dashboard](Screenshot3.png)
+
+---
+
+## 🛠️ Tools & Tech Used
+- **Power BI** – Data Cleaning, Modeling, DAX, Visualization  
+- **Excel/CSV** – Data Source  
+- **GitHub** – Portfolio Hosting & Sharing  
+
+---
+
+## 📂 Project Structure
+Bank-Loan-Report-Dashboard/
+│── BankLoanReport.pbix # Power BI file
+│── Screenshot1.png # Summary dashboard
+│── Screenshot2.png # Overview dashboard
+│── Screenshot3.png # Details dashboard
+│── README.md # Project documentation
+
+
+---
+
+## ⚖️ License
+This project is shared for **portfolio and learning purposes only**.  
+**Copying, reuse, or redistribution is not allowed.**
+
+---
+
+## 🔗 Connect with Me
+💼 LinkedIn:- www.linkedin.com/in/prathmesh-patil-d1619  
+📧 Mail:- prathampatil1619@gmail.com
+
+---
+
