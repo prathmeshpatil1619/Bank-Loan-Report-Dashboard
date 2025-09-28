@@ -22,8 +22,7 @@ This project is part of my analytics learning portfolio, showcasing **ETL, Data 
 - Loan Status distribution  
 - Key metrics on applications, funding, and repayments  
 
-![Summary Dashboard](<img width="1325" height="744" alt="Screenshot 2025-09-28 101651" src="https://github.com/user-attachments/assets/9f6bf1fd-d218-4034-a630-60a869a90c31" />
-)
+![Summary Dashboard] (Screenshot 2025-09-28 101651.png)
 
 ---
 
